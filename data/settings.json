@@ -1,1 +1,1 @@
-{"token":"MzgxODA3NjgyNTIyNDQ3ODc0.DR2fMg.r8r9lQ0mizUC5Tzc3glLibQolWc","client":"381807682522447874","tag":"!","case":"true","separator":"\\s+"}
+{"token":process.env.token,"client":"381807682522447874","tag":"!","case":"true","separator":"\\s+"}
